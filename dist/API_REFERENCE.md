@@ -193,10 +193,10 @@ typedef void (*OnDamageCallback)(
 |------|----|------|
 | `SPECIAL_BACK` | `0x0001` | 백어택 |
 | `SPECIAL_SHIELD_BLOCK` | `0x0002` | 방패 막기 |
-| `SPECIAL_WEAPON_BLOCK` / `SPECIAL_PARRY` | `0x0004` | 무기 막기 / 패리 |
+| `SPECIAL_WEAPON_BLOCK` / `SPECIAL_PARRY` | `0x0004` | 막기 / 패리 |
 | `SPECIAL_PERFECT` | `0x0008` | 퍼펙트 블록 |
 | `SPECIAL_HARD_HIT` / `SPECIAL_DOUBLE` | `0x0010` | 강타 / 더블 |
-| `SPECIAL_IRON_WALL` | `0x0020` | 아이언 월 |
+| `SPECIAL_IRON_WALL` | `0x0020` | 벽|
 | `SPECIAL_SMITE` / `SPECIAL_RESTORATION` | `0x0040` | 스마이트 / 리스토레이션 |
 | `SPECIAL_POWER_SHARD` | `0x0080` | 파워 샤드 |
 | `SPECIAL_CRITICAL` | `0x0100` | 크리티컬 (`damageType==3`이면 자동 설정) |
