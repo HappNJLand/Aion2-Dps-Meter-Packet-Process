@@ -5,30 +5,52 @@ WinDivert로 TCP 패킷을 캡처해 미터기 DLL에 투입하고, 콜백으로
 
 1. 미터기 실행후 화면
 <p align="left">
-<img width="362" height="184" alt="Image" src="https://github.com/user-attachments/assets/bfcf5bf5-20ae-4955-9861-bb7912797f79" />
+<img width="354" height="173" alt="Image" src="https://github.com/user-attachments/assets/e44b8975-05ed-48f3-984f-5cfc0b3ab7fa" />
 </p>
+📊 버튼 : 몬스터 상태이상 창 열기
 
 2. 미터기 설정창 화면
 <p align="left">
 <img width="376" height="702" alt="Image" src="https://github.com/user-attachments/assets/f65de8f6-27fb-4a25-842f-4d3511455b15" />
 </p>
 <p align="left">
-<img width="369" height="466" alt="Image" src="https://github.com/user-attachments/assets/bc3706af-200f-4976-96d0-25dbfe1c874a" />
+<img width="365" height="601" alt="Image" src="https://github.com/user-attachments/assets/551f7c2c-86ab-4f50-bcbc-0ef770399ce7" />
 </p>
 <p align="left">
 <img width="891" height="714" alt="Image" src="https://github.com/user-attachments/assets/ef16ca35-1fe8-429c-8d61-635e3919a8a7" />
 </p>
 
-3. 실제 사용 화면
+3. 버프 / 디버프 화면
 <p align="left">
-<img width="420" height="324" alt="Image" src="https://github.com/user-attachments/assets/9e3c7070-8c40-4870-89ef-c8eb899d49ce" />
+<img width="866" height="597" alt="Image" src="https://github.com/user-attachments/assets/d94ad55f-9e39-40ec-8085-a3ab444f6807" />
 </p>
-   
-4. 디테일 더미 화면
 <p align="left">
-<img width="862" height="713" alt="Image" src="https://github.com/user-attachments/assets/cddb0ea2-241f-4d68-9ff0-4cb0e28ca939" />
+<img width="648" height="568" alt="Image" src="https://github.com/user-attachments/assets/9b0352d4-ea10-47b8-bc13-b6cddc3b295c" />
+</p>
+* 일부 버프 디버프스킬이 스킬이름으로 출력되는 현상이 있음(실제 해당 스킬이 아님에도)
+
+대상이 없을시 경고메시지 출력
+<p align="left">
+<img width="296" height="154" alt="Image" src="https://github.com/user-attachments/assets/18fe3767-e699-4738-9b31-40a818ab6d26" />
 </p>
 
+5. 디테일 화면
+<p align="left">
+<img width="1108" height="627" alt="Image" src="https://github.com/user-attachments/assets/21cbf489-6fc5-46ef-80b2-4bc12b089cb9" />
+</p>
+
+5. 실제 사용 화면
+<p align="left">
+<img width="343" height="444" alt="Image" src="https://github.com/user-attachments/assets/95bb33b0-2bc4-498d-bb69-1d775d8c512e" />
+</p>
+   
+6. 기본 설정 값(단축키 등)
+   초기화 : 컨트롤 + R 
+   클릭 비허용 : 컨트롤 + PAGE UP
+   클릭 허용 : 컨트롤 + PAGE DOWN
+   트레이 단축키 : 컨트롤 + T
+   * 단축키 변경사항은 저장후 프로그램을 재실행 해주세요.
+   
 대미지바 영역 우클릭을 통해 디테일 창 확인 가능.
 메인 화면을 제외한 설정 디테일 창의 경우 ESC를 통해 닫기 가능.
 
