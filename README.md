@@ -44,32 +44,32 @@ WinDivert로 TCP 패킷을 캡처해 미터기 DLL에 투입하고, 콜백으로
 <img width="343" height="444" alt="Image" src="https://github.com/user-attachments/assets/95bb33b0-2bc4-498d-bb69-1d775d8c512e" />
 </p>
    
-6. 기본 설정 값(단축키 등)
-   초기화 : 컨트롤 + R 
-   클릭 비허용 : 컨트롤 + PAGE UP
-   클릭 허용 : 컨트롤 + PAGE DOWN
-   트레이 단축키 : 컨트롤 + T
-   * 단축키 변경사항은 저장후 프로그램을 재실행 해주세요.
+6. 기본 설정 값(단축키 등)<br>
+   초기화 : 컨트롤 + R <br>
+   클릭 비허용 : 컨트롤 + PAGE UP<br>
+   클릭 허용 : 컨트롤 + PAGE DOWN<br>
+   트레이 단축키 : 컨트롤 + T<br>
+   * 단축키 변경사항은 저장후 프로그램을 재실행 해주세요.<br>
    
-대미지바 영역 우클릭을 통해 디테일 창 확인 가능.
-메인 화면을 제외한 설정 디테일 창의 경우 ESC를 통해 닫기 가능.
+대미지바 영역 우클릭을 통해 디테일 창 확인 가능.<br>
+메인 화면을 제외한 설정 디테일 창의 경우 ESC를 통해 닫기 가능.<br>
 
-5. 예시 스크린샷에 사용된 세팅 값 정보
-  "barColorTop": "#FFFF2020",
-  "barColorMid": "#FFFFDDDD",
-  "barColorBottom": "#FF880000",
-  "barGlowColor": "#FFFF0000",
-  "fontColor": "#FFFFFFFF",
-  "backgroundColor": "#E0302828",
-  "windowOpacity": 1,
-  "barHeightPercent": 15,
-  "barOpacity": 1,
-  "barRowBgColor": "#80201010",
-  "barRowBgOpacity": 1,
-  "bossNameColor": "#FFFFFFFF",
-  "labelColor": "#66FFFFFF",
-  "statValueColor": "#FFFFFFFF",
-  "dpsValueColor": "#FFD4E86A",
-  "playerNameColor": "#FFFFFFFF"
+5. 예시 스크린샷에 사용된 세팅 값 정보<br>
+  "barColorTop": "#FFFF2020",<br>
+  "barColorMid": "#FFFFDDDD",<br>
+  "barColorBottom": "#FF880000",<br>
+  "barGlowColor": "#FFFF0000",<br>
+  "fontColor": "#FFFFFFFF",<br>
+  "backgroundColor": "#E0302828",<br>
+  "windowOpacity": 1,<br>
+  "barHeightPercent": 15,<br>
+  "barOpacity": 1,<br>
+  "barRowBgColor": "#80201010",<br>
+  "barRowBgOpacity": 1,<br>
+  "bossNameColor": "#FFFFFFFF",<br>
+  "labelColor": "#66FFFFFF",<br>
+  "statValueColor": "#FFFFFFFF",<br>
+  "dpsValueColor": "#FFD4E86A",<br>
+  "playerNameColor": "#FFFFFFFF"<br>
 ---
 
