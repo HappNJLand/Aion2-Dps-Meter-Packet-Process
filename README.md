@@ -95,6 +95,14 @@ src="https://github.com/user-attachments/assets/95bb33b0-2bc4-498d-bb69-1d775d8c
 
 ---
 
+---
+❤️ 버튼 으로 체력보기
+ <p align="left">
+  <img width="352" alt="Image" src="https://github.com/user-attachments/assets/6677c995-6220-4af0-804b-41574022af90" />
+  </p>
+
+---
+
 ## 7. 예시 스크린샷에 사용된 세팅 값 정보
 
 ```json
