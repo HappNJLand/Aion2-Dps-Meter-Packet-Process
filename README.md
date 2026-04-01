@@ -11,8 +11,7 @@ WinDivert로 TCP 패킷을 캡처해 미터기 DLL에 투입하고, 콜백으로
 ## 1. 미터기 실행후 화면
 
 <p align="left">
-<img width="354" height="173" alt="Image"
-src="https://github.com/user-attachments/assets/e44b8975-05ed-48f3-984f-5cfc0b3ab7fa" />
+<img width="352" height="161" alt="Image" src="https://github.com/user-attachments/assets/d10b257c-eac6-4421-ae3f-3a8ab7299dde" />
 </p>
 
 📊 버튼 : 몬스터 상태이상 창 열기
