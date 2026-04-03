@@ -11,30 +11,37 @@ WinDivert로 TCP 패킷을 캡처해 미터기 DLL에 투입하고, 콜백으로
 ## 1. 미터기 실행후 화면
 
 <p align="left">
-<img width="352" height="161" alt="Image" src="https://github.com/user-attachments/assets/d10b257c-eac6-4421-ae3f-3a8ab7299dde" />
+<img width="364" height="163" alt="Image" src="https://github.com/user-attachments/assets/871fc61b-bb9d-4f99-936d-69a239a5fe7a" />
 </p>
 
 📊 버튼 : 몬스터 상태이상 창 열기
-
+ ⚙ 버튼 : 설정
+💧 버튼 : 정령성 불길의 축복 버프로 인한 대미지 시전한 정령성에게 전달
+❤️ 버튼 : 체력바 창 사용 (보스만 선택 옵션에 따라 자동 표시 및 해당 타겟 처치시 3초후 숨김)
+👑 버튼 : 표기 대상 보스만(비활성화시 전체 표기)
 ---
 
 ## 2. 미터기 설정창 화면
 
 <p align="left">
-<img width="376" height="702" alt="Image"
-src="https://github.com/user-attachments/assets/f65de8f6-27fb-4a25-842f-4d3511455b15" />
+<img width="537" height="490" alt="Image" src="https://github.com/user-attachments/assets/f98126c4-6606-464e-a857-c51f683fdf30" />
 </p>
 
 <p align="left">
-<img width="365" height="601" alt="Image"
-src="https://github.com/user-attachments/assets/551f7c2c-86ab-4f50-bcbc-0ef770399ce7" />
+<img width="530" height="495" alt="Image" src="https://github.com/user-attachments/assets/1ecfa1d4-8608-44a3-a258-40349d534882" />
 </p>
 
 <p align="left">
-<img width="891" height="714" alt="Image"
-src="https://github.com/user-attachments/assets/ef16ca35-1fe8-429c-8d61-635e3919a8a7" />
+<img width="530" height="489" alt="Image" src="https://github.com/user-attachments/assets/d5abc0f8-6023-4ad2-b76c-87b0d9ca746c" />
 </p>
 
+<p align="left">
+<img width="525" height="487" alt="Image" src="https://github.com/user-attachments/assets/a3f2f344-9078-4216-87f8-5b6a8f221bb9" />
+</p>
+
+<p align="left">
+<img width="534" height="490" alt="Image" src="https://github.com/user-attachments/assets/40d0da31-7e7b-42d0-a4a2-4fe868d2fd09" />
+</p>
 ---
 
 ## 3. 버프 / 디버프 화면
