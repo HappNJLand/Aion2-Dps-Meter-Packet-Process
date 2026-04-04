@@ -29,7 +29,7 @@ WinDivert로 TCP 패킷을 캡처해 미터기 DLL에 투입하고, 콜백으로
 ## 2. 미터기 설정창 화면
 
 <p align="left">
-<img width="537" height="490" alt="Image" src="https://github.com/user-attachments/assets/f98126c4-6606-464e-a857-c51f683fdf30" />
+<img width="529" height="489" alt="Image" src="https://github.com/user-attachments/assets/daf2eb50-0498-45ae-8098-bc918989c06a" />
 </p>
 
 <p align="left">
@@ -46,6 +46,10 @@ WinDivert로 TCP 패킷을 캡처해 미터기 DLL에 투입하고, 콜백으로
 
 <p align="left">
 <img width="534" height="490" alt="Image" src="https://github.com/user-attachments/assets/40d0da31-7e7b-42d0-a4a2-4fe868d2fd09" />
+</p>
+
+<p align="left">
+<img width="526" height="490" alt="Image" src="https://github.com/user-attachments/assets/5d0be1ac-5db7-4fc5-9509-8beec065f3df" />
 </p>
 ---
 
