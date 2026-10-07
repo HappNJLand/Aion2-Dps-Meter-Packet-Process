@@ -197,10 +197,3 @@
 
 [특수 키·넘패드 등 단축키 입력 방법](docs/HOTKEYS.md)
 
-## 개발 및 문서 참고
-
-- [개발 빌드와 진단 로그](docs/DEVELOPMENT.md)
-- [전투 세션별 신원 보존](docs/SESSION-IDENTITY.md)
-- [문서용 샘플 이미지 생성 방법](Utility/ReadmeScreenshots/README.md)
-
-README의 이미지는 `docs/images/`에 포함되어 있습니다. GitHub에 올릴 때 **README와 이미지 폴더를 함께** 반영하면 별도의 이미지 업로드 없이 표시됩니다.
